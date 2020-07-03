@@ -2,7 +2,7 @@
 // @name         youtube no ads
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Este scriptp do Tampermonkey é para adcionar o "." entre o com e o barra da url atual do Youtube
 // @author       Acacio
 // @match        https://www.youtube.com/watch?*
 // @grant        none
