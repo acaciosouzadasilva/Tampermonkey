@@ -1,0 +1,1 @@
+Array.from(document.querySelector("#main > header > div._33QME > div._2ruUq._3xjAz > span").textContent.split(",")).map((teste)=>teste.split(" ").join(''))
