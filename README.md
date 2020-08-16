@@ -13,4 +13,8 @@ depois - https://www.youtube.com./
 
 fazendo isso você aciona um bug que não permite a exibição de propagandas
 
+Link para script Instagram download video
+
+https://github.com/acaciosouzadasilva/Tampermonkey/raw/master/Instagram.user.js
+
 Acacio
