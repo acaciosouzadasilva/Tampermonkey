@@ -2,7 +2,7 @@
 
 Olá,
 
-Este scriptp do Tampermonkey é para adcionar o "." entre o 
+Este script do Tampermonkey é para adcionar o "." entre o 
 com e o barra da url atual do Youtube
 
 exemplo:
@@ -17,4 +17,4 @@ Link para script Instagram download video
 
 https://github.com/acaciosouzadasilva/Tampermonkey/raw/master/Instagram.user.js
 
-Acacio
+
